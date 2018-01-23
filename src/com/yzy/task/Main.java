@@ -102,9 +102,9 @@ public class Main {
         //链接
         String content = "http://www.helperok.com/";
         //需要插入的图片路径
-        String imgPath = "C:\\Users\\zfibs020\\Desktop\\教学相关\\入门级\\课程任务代码\\QrCode\\111111.jpg";
+        String imgPath = "D:\\logo.jpg";
         //二维码的输出路径
-        String destPath = "C:\\Users\\zfibs020\\Desktop\\教学相关\\入门级\\课程任务代码\\QrCode\\";
+        String destPath = "D:\\";
         //是否对插入的图片进行压缩
         boolean needCompress = true;
 
